@@ -37,6 +37,30 @@ img {
     border-radius: 15px;
 }
 
+body.red {
+    background-color: #ff4d4d;
+}
+
+body.orange {
+    background-color: #ffb347;
+}
+
+body.yellow {
+    background-color: #fff176;
+}
+
+body.green {
+    background-color: #81c784;
+}
+
+body.blue {
+    background-color: #64b5f6;
+}
+
+body.brown {
+    background-color: #a67c52;
+}
+
 footer {
     background-color: #222;
     color: white;
