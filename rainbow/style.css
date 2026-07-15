@@ -37,6 +37,10 @@ img {
     border-radius: 15px;
 }
 
+body.darkmagenta {
+    background-color: darkmagenta;
+}
+
 body.red {
     background-color: #ff4d4d;
 }
